@@ -1,0 +1,18 @@
+body{
+  background-color: wheat;
+}
+
+.App {
+  text-align: center;
+}
+
+#cards{
+ min-width:15rem !important;
+ max-width:20rem;
+}
+
+.footer{
+    left: 0;
+  bottom: 0;
+  width: 100%;
+}
